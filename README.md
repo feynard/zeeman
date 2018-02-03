@@ -24,9 +24,13 @@ Program can be simply compiled using `make` command. Some commands:
 
 ### Some details
 
-In some way such phenomena is quite counter intuitive, since it shows that it's
-possible that a smooth change of input of a differentiable dynamical system can
-cause singularity in output. This effect can be explained geometrically looking
-at the equilibrium surface of a given system. For more, feel free to contact
-and see the reference:
-* Arnol'd V.I. - Catastrophe Theory, Second Edition [Springer-Verlag, 1986]
+In some way such phenomena are quite counter intuitive, since it shows that
+it's possible that a smooth change of input of a differentiable dynamical
+system can cause singularity in output. This effect can be explained
+geometrically looking at the equilibrium surface of a given system. For more,
+feel free to contact and see the reference:
+* Arnol'd V.I. - Catastrophe Theory, 2nd Edition [Springer-Verlag, 1986]
+
+Main OpenGL reference:
+* Angel E., Shreiner D. - Interactive Computer Graphics: A Top-Down Approach
+with Shader-Based OpenGL, 6th Edition [Addison Wesley, 2011]
