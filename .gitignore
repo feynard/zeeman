@@ -1,0 +1,5 @@
+.DS_Store
+program
+program.dSYM
+*.swp
+*.o
